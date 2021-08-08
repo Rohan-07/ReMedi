@@ -1,5 +1,9 @@
 import React, { Component } from "react";
+<<<<<<< HEAD
 //sdgfyjhgd,gkjmdhfbkj
+=======
+//wahfcuhfiusjhdxnkvjsdhnxf
+>>>>>>> 8e273bfb813026cdc45f97a7d641a828bd9cf0f7
 import {
 	Container,
 	Header,
