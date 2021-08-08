@@ -89,7 +89,11 @@
 /******/ 	
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
+<<<<<<< HEAD
 /******/ 	var hotCurrentHash = "3a4d5813a5f5ab7bd29d"; // eslint-disable-line no-unused-vars
+=======
+/******/ 	var hotCurrentHash = "d299f3c17731d00e210b"; // eslint-disable-line no-unused-vars
+>>>>>>> 2d1db716ce4a18ceb7768d381ca515f02ef7ed8d
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule; // eslint-disable-line no-unused-vars
@@ -754,7 +758,11 @@
 /******/ 		if (__webpack_require__.nc) {
 /******/ 			script.setAttribute("nonce", __webpack_require__.nc);
 /******/ 		}
+<<<<<<< HEAD
 /******/ 		script.src = __webpack_require__.p + "" + ({"0":"main.js","1":"bundles\\pages\\_error.js","2":"bundles\\pages\\_document.js","3":"commons","5":"bundles\\pages\\Patient\\access.js","6":"bundles\\pages\\Patient\\index.js"}[chunkId]||chunkId) + "";
+=======
+/******/ 		script.src = __webpack_require__.p + "" + ({"0":"main.js","1":"bundles\\pages\\_error.js","2":"bundles\\pages\\_document.js","3":"commons","6":"bundles\\pages\\Patient\\index.js","8":"bundles\\pages\\Patient\\access.js"}[chunkId]||chunkId) + "";
+>>>>>>> 2d1db716ce4a18ceb7768d381ca515f02ef7ed8d
 /******/ 		var timeout = setTimeout(onScriptComplete, 120000);
 /******/ 		script.onerror = script.onload = onScriptComplete;
 /******/ 		function onScriptComplete() {
@@ -804,7 +812,11 @@
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
+<<<<<<< HEAD
 /******/ 	__webpack_require__.p = "/_next/944575f6-9590-4090-90b5-1eae367859f0/webpack/";
+=======
+/******/ 	__webpack_require__.p = "/_next/c68505ae-6e8b-448a-a997-d54fd8b43fcd/webpack/";
+>>>>>>> 2d1db716ce4a18ceb7768d381ca515f02ef7ed8d
 /******/
 /******/ 	// on error function for async loading
 /******/ 	__webpack_require__.oe = function(err) { console.error(err); throw err; };
